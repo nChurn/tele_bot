@@ -1,0 +1,8 @@
+2021-06-01T20:42:41.633334+0300-[32mINFO[0m-331579779 - Никита Чурнусов - set age: s
+2021-06-02T17:25:05.351179+0300-[32mERROR[0m-Account {self.name} - {self.age} - {self.text} - {self.is_human} - {self.id} NOT CREATED
+2021-06-02T17:27:32.053525+0300-[32mERROR[0m-Account sosiu - 12 - pisos - 331579779 NOT CREATED
+2021-06-02T17:28:11.422846+0300-[32mERROR[0m-Account sosi - 21 - mreaz - 331579779 NOT CREATED
+2021-06-02T17:32:15.043569+0300-[32mERROR[0m-Account ssoi - 12 - das - 331579779 NOT CREATED
+2021-06-02T17:34:20.164905+0300-[32mINFO[0m-Account sosis - 12 - mraz - 331579779 CREATED
+2021-06-02T18:14:38.073616+0300 -   [32mINFO[0m  -   331579779 - Никита Чурнусов - set age: asd
+2021-06-02T18:34:37.830809+0300 -   [32mERROR[0m  -   Account ыщы\ - 12 - чио - 331579779 NOT CREATED
